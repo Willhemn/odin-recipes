@@ -2,16 +2,12 @@ body{
     background-color: rgb(243, 243, 235);
 }
 
-#mainTitle{
+#mainHeader{
     font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
     font-size: 50px;
-    text-align: center;
 }
 
-a{
-    text-decoration: none;
-    font-size: 20px;
-    color: rgb(214, 40, 40);
+.header{
     font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
-    font-weight: 600;
+    font-size: 30px;
 }
